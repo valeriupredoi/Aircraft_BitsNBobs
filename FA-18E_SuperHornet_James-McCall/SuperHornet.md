@@ -1,2 +1,0 @@
-- Aircraft piloted by Captain James McCall, CAG, the Commanding Officer of Carrier Airwing (CAW) 8, VFA-31 Tomcatters, callsign "Felix", USS George H.W. Bush (CVN-77), Mediterranean Sea, 2017
-- Operations against Syria- and Iraq-based ISIS; together with VFA-213 "Fighting Black Lions", VFA-87 "Golden Warriors", VFA-37 "Raging Bulls", and electronic attack squadron VAQ-131 "Lancers" (all Super Hornets and Growlers)
