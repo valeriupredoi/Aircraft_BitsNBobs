@@ -1,0 +1,22 @@
+## Boeing EA-18G growler s/n 166894
+
+- serial number: 166894
+- c/n: G-6
+- eighth Growler built (first was S/N 166641 c/n EA-1)
+- 2009: VAQ-129 Vikings NJ-560 (low-viz scheme)
+- August 2009: VAQ-129 and VAQ-132 are the first units to complete Growler sea trials aboard USS Harry S. Truman
+- 2009: trabsferred to VAQ-132 Scorpions, NAS Whidbey Island, WA, USA
+- February 2010: VAQ-132 Scorpions NL-540 (black verical stabilizers/red scorpion)
+- May 2011:
+  - redepoloyed from Al'Asad Base, Iraq to...
+  - NATO operational base at: Aviano AB, Italy
+  - unit: VAQ-132 Scorpions NL-540 (brown vertical stabilizers/black scorpion)
+  - crew: pilot: Capt. Jeff Craig "Jenny", EWO: Capt. Tom Slais/Commodore
+  - operations: Operation Odyssey Dawn
+  - role: enforce no-fly zone over Libya
+- February 2012: VAQ-132 Scorpions (same unit, same appearance)
+- transferred to VAQ-129 Vikings, NAS Whidbey Island, WA, USA
+- July-October 2019: VAQ-129 Vikings NJ-556 (high-viz markings: red lettering, red patch on vertical stabilizer etc)
+- August-November 2022: VAQ-129 Vikings (same high-viz appearance)
+- 12 Febryuary 2023: Super Bowl LVII flyover
+- current status: operational with VAQ-129
