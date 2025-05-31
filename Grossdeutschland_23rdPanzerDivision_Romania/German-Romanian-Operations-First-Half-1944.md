@@ -62,7 +62,7 @@ The Romanian 18th Mountain and 3rd Infantry took up the defence and the 20th Inf
 
 ### References
 
-<https://www.team-yankee.com/hobby.aspx?art_id=2610>
-<http://www.yogysoft.de/Bessarabia_1.htm>
-<http://www.worldwar2.ro/arr/?article=447>
-<https://mikesresearch.com/2022/04/24/grosdeutschland-panzers-1942-45/>
+- <https://www.team-yankee.com/hobby.aspx?art_id=2610>
+- <http://www.yogysoft.de/Bessarabia_1.htm>
+- <http://www.worldwar2.ro/arr/?article=447>
+- <https://mikesresearch.com/2022/04/24/grosdeutschland-panzers-1942-45/>
