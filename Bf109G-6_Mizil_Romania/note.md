@@ -1,6 +1,6 @@
 ## Defending Ploiesti 1944
 
-### 10 June 1944 - a pivotal day
+### 10 June 1944 - a pivotal day for the Royal Romanian Air Force
 
 Translated from <https://historia.ro/sectiune/general/10-iunie-1944-intre-legenda-si-adevar-575708.html> with further reading from <https://festungploesti.wordpress.com/2020/06/11/10-june-1944-objective-romana-americana-refinery/>
 
