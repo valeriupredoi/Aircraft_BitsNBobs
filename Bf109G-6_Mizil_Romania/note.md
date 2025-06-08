@@ -1,8 +1,15 @@
 ## Defending Ploiesti 1944
 
-### 10 June 1944 - a pivotal day for the Royal Romanian Air Force
+### References 
 
-Translated from <https://historia.ro/sectiune/general/10-iunie-1944-intre-legenda-si-adevar-575708.html> with further reading from <https://festungploesti.wordpress.com/2020/06/11/10-june-1944-objective-romana-americana-refinery/>
+- Translated from <https://historia.ro/sectiune/general/10-iunie-1944-intre-legenda-si-adevar-575708.html> with further reading from <https://festungploesti.wordpress.com/2020/06/11/10-june-1944-objective-romana-americana-refinery/>
+- 82nd FG registry <https://15thaf.org/XV%20FC/305th%20FW/82/aircraft/PDFs/82nd%20Fighter%20Group%20P-38%20Inventory.pdf>
+- 82nd FG casulaties <https://15thaf.org/XV%20FC/305th%20FW/82/PDFs/82nd_wwii__casualties.pdf>
+- FalkeEins on IBG model <https://falkeeins.blogspot.com/2024/12/romanian-iar-8081-ibg-models-172-10.html>
+- P-38J Accident list <https://asn.flightsafety.org/asndb/type/P38/1/YR>
+- Herbert Hatch DSC citation <https://valor.militarytimes.com/recipient/recipient-31290/>
+
+### 10 June 1944 - a pivotal day for the Royal Romanian Air Force
 
 June 10, 1944 will forever remain a glorious day for the Royal Romanian Air Force. However, a good part of the laurels of victory are claimed by the anti-aircraft gunners around Ploiești and the Luftwaffe pilots stationed in Romania. On the other hand, the American 15th Army Air Force accomplished its difficult bombing mission, and the losses suffered were nowhere near as they were recorded at the time, by the Romanians and Germans, so it is worth reopening the archives of the three countries in order to finally answer as accurately as possible the question: "Whose was the victory?"
 
