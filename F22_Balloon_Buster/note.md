@@ -9,3 +9,4 @@
            nickname: "Arizona Balloon Buster"
 - 09-4172: delivered F-22A Block 35 13 Sep 2010 - active
            nickname: "Executive Sweet"
+           squadron CO aircraft (possibly piloyed by Lt. Col. Calvin Peterson, squadron CO at the time)
