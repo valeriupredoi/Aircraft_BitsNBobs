@@ -1,0 +1,6 @@
+## Two aircraft of interest
+
+- F-4G-45-MC, 69-7582 c/n: 4053, 23 TFS, 52 TFW (tail: SP - Spangdahlem AB | AF69-52TFW, red-yellow-blue squadron band, 52nd TFW CO's plane) (Col. R Peksens "Weasel I") part of 7440th Composite Wing, March 1991, Gulf War "Operation Desert Storm" - detached to Incirlik AB, Turkey, durich which time it killed one Iraqi radar; airframe first flight March 1971, November 1991 sent to AMARC Davis-Monthan AFB, for conversion to QF-4G FP786, last serial AF222 USAF, shot down March 2006.
+- F-4G-43-MC, 69-7232, 561 FS, 57 FW (tail: WA - Nellis AFB | AF69-232; logos: YGBSM, 57th Wing checkered tail band, squadron black helmet, 8 x HARM kills) (Lt.Col. Mark Turberville & Lt.Col. Jim Uken, EWO) January 1996 Aircraft retirement - detached to Dhahran AB, Saudi Arabia; Desert Storm: Lt. Col. Randy Gelwix (then commander of 81st TFS, of 52nd TFW, Spangdahlem AB) and Lt. Col. Jim Uken led the first wave of Coalition strikes, on the first night of Desert Storm, 17 January 1991; 11 January 1996 it performed the last mission of any US F-4 in hostile territory (Iraq, OSW patrol); within two months, 69-7232 was sent to AMARC Davis-Monthan AFB, Arizona, for conversion to QF-4G drone; 8 x HARM kill signs meaning eight Iraqi SAM sites destroyed: three were destroyed while crewed by Gelwix/Uken part of 81st TFS.
+
+
