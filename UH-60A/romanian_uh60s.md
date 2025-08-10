@@ -1,6 +1,6 @@
-## Romanian S-70/H-60 Helicopters
+## Romanian S-70M/H-60 Helicopters
 
-All PZL-made S-70/H-60s, made in Poland.
+All PZL-made S-70M/H-60s, made in Poland.
 
 | Tail / Side Number | CN     | PZL / Test Reg Seen                | Operator / Role                         | Earliest Public Delivery / Photo Date (Source) |
 |--------------------|--------|-------------------------------------|-------------------------------------------|------------------------------------------------|
