@@ -4,7 +4,7 @@
 
 | Date/Period | Event/Unit | Location |
 |-------------|------------|----------|
-| 1980 | Manufactured by Sikorsky as UH-60A Black Hawk, serial 80-23482; part of 1980 production batch | effectivity: 0230; lot: 4 |
+| 1980 | Sikorsky UH-60A Black Hawk 80-23482 | effectivity: 0230; lot: 4 |
 | 1982-02-16 1986-05-15 | UH-60A 2d Squadron, 17th Cavalry | Fort Campbell, KY |
 | 1986-05-16 1987-10-15 | UH-60A 158th Aviation Battalion | Fort Campbell, KY |
 | 1987-10-16 1994-10-15 | UH-60A 5-101st Aviation Regiment | Fort Campbell, KY |
@@ -20,7 +20,7 @@
 
 | Date/Period | Event/Unit | Location |
 |-------------|------------|----------|
-| 1979 | Manufactured by Sikorsky as UH-60A Black Hawk, serial 79-23305; part of initial production batch | effectivity: 0112; lot: 3 |
+| 1979 | Sikorsky as UH-60A Black Hawk 79-23305 | effectivity: 0112; lot: 3 |
 | February 1981 | UH-60A 82nd AVN BN | Fort Bragg, NC |
 | 1981-02-16 	1982-02-15 |	UH-60A 	HHC, 82nd Airborne Division |	Fort Bragg, NC |
 | 1982-02-16 	1987-01-15 |	UH-60A 	82nd Aviation Battalion |	Fort Bragg, NC |
