@@ -1,6 +1,6 @@
 ## Romanian S-70/UH-60 Helicopters
 
-
+```markdown
 | Tail / Side Number | CN     | PZL / Test Reg Seen                | Operator / Role                         | Earliest Public Delivery / Photo Date (Source) |
 |--------------------|--------|-------------------------------------|-------------------------------------------|------------------------------------------------|
 | 270                | 705338 | SP-YVO (test/ferry)                 | IGAv / SMURD (Mobile Emergency Service)   | 19 Nov 2023 (delivery photo) – [JetPhotos SP-YVO](https://www.jetphotos.com/registration/SP-YVO) – 2024-01-23 :contentReference[oaicite:0]{index=0}; also photographed 20 Mar 2024 :contentReference[oaicite:1]{index=1} |
@@ -9,6 +9,7 @@
 | 273                | 705341 | (—)                                 | IGAv / SMURD                              | Photographed 29 Apr 2024 (uploaded 30 Apr) – see JetPhotos for CN 705341 :contentReference[oaicite:4]{index=4} |
 | 274                | 705342 | (—)                                 | POLIȚIA (Police)                          | Photographed 20 Mar 2024 with police markings—JetPhotos CN 705342 :contentReference[oaicite:5]{index=5} |
 | 276                | 705344 | SP-YVW (test reg during ferry)      | IGAv / SMURD (first delivered S-70)       | First flown into Romania 11–15 Nov 2023 (transferred)—listed in Helis.com database for S-70i with CN 705344 and reg SP-YVW :contentReference[oaicite:6]{index=6} |
+```
 
 ---
 
