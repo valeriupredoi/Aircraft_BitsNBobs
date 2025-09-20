@@ -22,3 +22,12 @@
 - VAQ-141 deployed with CVW-8 aboard USS Theodore Roosevelt from March–September 1999.
 
 During Operation Allied Force, VAQ-141 aircraft (including 161350) flew from the Adriatic Sea in support of NATO strikes. The squadron’s Prowlers played a crucial role in jamming Serbian radars and launching HARMs against surface-to-air missile sites.
+
+## EA-6B 163527 "Eve of Destruction"
+
+-main livery: US Navy, VAQ-141 "Shadowhawks", USS Theodore Roosevelt (CVN-71), tail code "AJ", Operation desert Storm
+- crew: (source <https://dstorm.eu/pages/en/usa/ea-6b.html>)
+  - Pilot and Sqn CO - Cdr Frank "Axel" Folly
+  - ECMO 1 - LCdr Rick "Flash" Morgan
+  - ECMO 2 - Lt Steve "Psycho" Schwing
+  - ECMO 3 - Lt John "Gordo" Gordon
