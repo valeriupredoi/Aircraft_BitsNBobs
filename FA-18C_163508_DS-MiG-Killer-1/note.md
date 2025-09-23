@@ -7,6 +7,8 @@
   - AA410: BuNo 163502, Lieutenant Nick "Mongo" Mongillo
 - date: 17 January 1991
 - fate of Iraqi pilots shot down: unknown
+- current status of the aircraft:
+  - AA401: restored at the National Naval Aviation Museum (Pensacola, Florida): <https://navalaviationmuseum.org/fa-18c-hornet/> - restored as original and displayed in the markings from the day of the MiG kill (with Cdr. Mike "Spock" Anderson listed on the fuselage)
 
 ### Narrative
 
