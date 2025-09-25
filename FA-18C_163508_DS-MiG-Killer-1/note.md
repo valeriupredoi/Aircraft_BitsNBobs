@@ -9,6 +9,7 @@
 - fate of Iraqi pilots shot down: unknown
 - current status of the aircraft:
   - AA401: restored at the National Naval Aviation Museum (Pensacola, Florida): <https://navalaviationmuseum.org/fa-18c-hornet/> - restored as original and displayed in the markings from the day of the MiG kill (with Cdr. Mike "Spock" Anderson listed on the fuselage)
+  - AA410: onboard USS Hornet Museum, on loan from the National Naval Aviation Museum, wearing last active markings (modex 307), arrived April 2025: <https://alamedapost.com/news/f-a-18c-hornet-receives-warm-welcome-uss-hornet/>
 
 ### Narrative
 
