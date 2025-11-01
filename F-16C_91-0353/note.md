@@ -11,7 +11,7 @@ Shot down a MiG-29 in Operation Allied Force on May 4, 1999. Wore a kill marking
 - Date and location: May 4th, 1999, Kosovo
 - F-16C pilot: Lt.Col. Michael H. Geczy
 - Unit: 78th Expeditionary FS, 20th FW, detached to Aviano AB, Italy, from Shaw AFB, USA
-- Kill: Serbian MiG-29A Fulcrum, pilot: Lt.Col. Milenko Pavlović (204th Fighter Regiment, Serbian Yugoslav Air Force) who was killed in the shoot-down
+- Kill: Serbian MiG-29A Fulcrum, pilot: Lt.Col. Milenko Pavlović (204th Fighter Regiment, Serbian Yugoslav Air Force, Batanica AB) who was killed in the shoot-down over Valjevo (his hometown)
 - the 5th and final USAF aerial victory & 6th by NATO forces, of Operation Allied Force. All victories were by AIM-120 and occurred from beyond visual range; still the last manned-manned USAF kill to date (November 2025), US Navy would score another manned-manned kill only in June 2017, an F/A-18E Super Hornet shooting down a Syrian Su-22M Fitter (18 June 2027, Lt.Col. Mike "MOB" Tremel, DFC, F/A-18E Super Hornet BuNo 168912, modex 302, VFA-87 Golden Warriors aboard USS George H.W. Bush, details at <https://www.military.com/daily-news/2018/09/10/navy-pilot-gets-distinguished-flying-cross-shooting-down-syrian-bomber.html>)
 
 ### Decals
