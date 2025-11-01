@@ -13,3 +13,7 @@ Shot down a MiG-29 in Operation Allied Force on May 4, 1999. Wore a kill marking
 - Unit: 78th Expeditionary FS, 20th FW, detached to Aviano AB, Italy, from Shaw AFB, USA
 - Kill: Serbian MiG-29A Fulcrum, pilot: Lt.Col. Milenko Pavlović (Yugoslav Air Force) who was killed in the shoot-down
 - the 5th and final USAF aerial victory & 6th by NATO forces, of Operation Allied Force. All victories were by AIM-120 and occurred from beyond visual range; still the last manned-manned USAF kill to date (November 2025), US Navy would score another manned-manned kill only in June 2017, an F/A-18E Super Hornet shooting down a Syrian Su-22M Fitter
+
+### Decals
+
+Bullseye 48-028 <https://www.scalemates.com/kits/bullseye-model-aviation-48-028-killer-vipers--1470243>
