@@ -25,3 +25,8 @@ Sadly however, the aircraft was less fortunate. Less than three weeks after Joe 
 George went on to become a test pilot for the Hughes Aircraft Company and author of various aviation books and articles. In his book, Cheating death, he wrote his time as a “Sandy’ rescue pilot at the Udorn and Nakhon Phanom bases, among which his time with his personal aircraft. In total he completed 188 combat missions with over 600 combat hours and was awarded the Distinguished Flying Cross with two Oak Leaf Clusters and the Air Medal with eight Oak Leaf Clusters. He was also awarded the Air Force Commendation Medal for several flight tests with experimental aircraft at Edwards AFB.
 
 Over the decades, Joe and George had lost touch with each other. But 41 years after leaving Vietnam, they had found each other again via the internet and met for a flight in George’s 1945 Stinson L-5E Sentinel nicknamed, you guessed it, “Sock-it-to-Em.”
+
+Decals reference
+----------------
+
+- Caracal decals CD48189 <https://www.caracalmodels.com/cd48189.html> including Jones' A-1H 52-139738 "The Proud American", 1st SOS
