@@ -18,4 +18,6 @@ Notable 56th SOW stories
 
 A-1J 52-142029 "Sock It To 'Em" Reference
 ------------------------------------------
-<https://ninetalis.com/design-work/war-thunder-skins/s-a1h-bubbles-n-bust-2/>
+- <https://ninetalis.com/design-work/war-thunder-skins/s-a1h-bubbles-n-bust-2/>
+- <https://www.ewarbirds.org/pressrelease/sockittoem102510.html>
+- <https://pasoroblespress.com/paso-robles-magazine/paso-people/life-honor/>
