@@ -1,5 +1,5 @@
-Lockheed P-38J 42-104107 49th FS, 14th FG over Romania
-------------------------------------------------------
+Lockheed P-38J 42-104107 49th FS, 14th FG: JEWBOY over Romania
+--------------------------------------------------------------
 
 On 15 April 1944 2nd Lt. Philip M. Goldstein gets assigned Lockheed P-38J-15-LO 42-104107 Lightning (Numbered black 47 with small 07 on nose, named “JEWBOY”), on the day of an escort mission to Bucharest (though Source 1 already lists Goldstein as the pilot of 42-104107 on 2 April 1944).
 
@@ -12,7 +12,7 @@ The 7 May 1944 bomber escort mission to Bucharest (15th Air Force's third consec
 
 Goldstein completed his 50th and last mission on 28 June 1944, and was sent home on 9 July 1944. He finished the war with three victories: a Bf-109 downed on 25 May 1944 over Steyr, Austria, the so-claimed Fiat G50 shot down over Bucharest, Romania on 7 May, and a FW-190 shot down over Piacenza, Italy, on 25 May 1944.
 
-On 31 July 1944 42-104107 is destroyed by Kenneth R. Warren 2nd Lt. 0-763014, with no injury to pilot.
+On 31 July 1944, at the Group's base at Triolo, Italy, 42-104107 is destroyed by Kenneth R. Warren 2nd Lt. 0-763014, with no injury to pilot. That was a landing accident.
 
 Partial mission log 14th FG
 ---------------------------
@@ -36,3 +36,4 @@ References
 - Source 2: <https://15thaf.org/XV%20FC/305th%20FW/14th/Aircraft/PDFs/000%20P-38%20List.pdf>
 - Source 3: Alexandru Arma, Sorin Turturica: Misiuni de Scarificiu, Editura Militara, Bucharest, 2013
 - Source 4: <http://theyweresoldiers.com/index.php/2017/05/01/the-flight-of-jewboy-a-jewish-p-38-lightning-pilot-in-the-second-world-war/>
+- Source 5: <http://mail.aviation-safety.net/wikibase/108427>
