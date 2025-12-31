@@ -2,8 +2,8 @@ John J. Voll and his missions over Romania
 ------------------------------------------
 
 - Pilot: John James Voll, O-705511, 21 kills, highest 15th AF scoring ace
-- Deployment: May 1944
-- Aircraft: North-American P-51D-15-NA Mustang 44-15459 HL-B
+- Deployment: May 1944, with P-51B 42-106512
+- Aircraft: North-American P-51D-15-NA Mustang 44-15459 HL-B, assigned to Voll only late 1944 (November?)
 - Unit: 308th FS, 31st FG, 15th AF, San Severo, Italy 1944
 - Aircraft names: Lovely Lila/American Beauty
 
