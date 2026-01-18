@@ -1,0 +1,11 @@
+## General Motors FM-2 Wildcat, VC-10, USS Gambier Bay, Battle of Samar, 25 October 1944
+
+The Composite Squadron 10 was established on September 23, 1943 and adopted the name Mallards. The unit served on board the carrier USS Gambier Bay (CVE-73) from April 5 and after her sinking in the Battle off Samar on October 25, the unit operated from airfields in Leyte. In January 1945, VC-10 was reformed and prepared for further deployment, but this never happened and it was inactivated at the end of the war.
+
+## Ensign Darrell C. "Smoke" Bennett
+
+Born in Hamburg, Iowa 30 March 1924, “Smoke” Bennett joined the Navy as an aviation cadet volunteer 1 October 1943, age 19, and was a deployed combat pilot on his first flattop just 10 months later. He spent most of the war in ground support missions from escort carriers supporting the liberation of the Philippines. On the day he arrived, he had his picture taken in front of the FM-2 with a painting of two girls on the port side of the engine cowling. The first was based on a painting called Patriotic Gal by the famous Antonio Vargas. It is not known who had the two girls painted on the aircraft, but the paintings already bore signs of modification and wear. It is possible that Bennett only had "Smokey's" added to the inscription "Lucky Witch", as the "Smoke" was his nickname. He narrowly avoided going down with Gambier Bay in the Battle off Samar just two months after the above image was snapped.
+
+He would survive WWII as well as later service in Korea, continue his Navy career as a pilot, a flight instructor, and as Commander Fleet Air Miramar, retiring in 1965. CDR Bennett received the following decorations: Air Medal (5), Presidential Unit Citation, Navy Unit Citation, Korean Presidential Unit Citation, WWII Victory Medal, Navy Occupation Service Medal (Europe), National Defense Service Medal, Asiatic Pacific Campaign Medal, Korean Service Medal, and the United Nations Service Medal.
+
+Retiring to the Florida panhandle after a second career as a corporate and personal pilot to Hollywood types, CDR Bennett was a well-known supporter of the Pensacola National Naval Aviation Museum, where one of his former airframes was on display, and the USS Gambier Bay Association. He passed in December 2020, age 96, leaving behind “two sons, seven grandchildren, and 15 great-grandchildren.”
