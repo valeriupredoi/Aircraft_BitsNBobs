@@ -1,3 +1,9 @@
+## FM-2 Wild(er)cat
+
+Grumman Aircraft suspended its production of Wildcats in mid-1943 in order to start producing Hellcats. From this point on, Wildcats were produced under license by the Eastern Aircraft Division of General Motors. Because it was a different manufacturer, the Wildcats built by GM were called the FM-1 (which was essentially a 4 gun F4F-4) and the follow-on FM-2.
+
+The FM-2 was an improved version of the Grumman F4F-4. The key difference being a more powerful engine which also required the fighter to have taller fin than the standard F4F-4. Starting in mid-1943, Hellcats gradually assumed the primary fighter role aboard fast fleet carriers. Wildcats were then used in secondary roles with the Navy and Marines. Newly built FM Wildcats mostly operated from escort carriers.
+
 ## General Motors FM-2 Wildcat, VC-10, USS Gambier Bay, Battle of Samar, 25 October 1944
 
 The Composite Squadron 10 was established on September 23, 1943 and adopted the name Mallards. The unit served on board the carrier USS Gambier Bay (CVE-73) from April 5 and after her sinking in the Battle off Samar on October 25, the unit operated from airfields in Leyte. In January 1945, VC-10 was reformed and prepared for further deployment, but this never happened and it was inactivated at the end of the war.
