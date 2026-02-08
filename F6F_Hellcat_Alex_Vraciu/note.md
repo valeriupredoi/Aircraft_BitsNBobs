@@ -10,14 +10,10 @@ Vraciu's most successful day as an aviator occurred on June 19, 1944, during the
 
 Vraciu returned to combat in the Pacific in late 1944, flying Grumman F6F Hellcats in VF-20. On December 14, 1944, after two missions with VF-20, his plane was downed by anti-aircraft fire during a mission over the Philippines. Vraciu parachuted from his plane, landing in the Tarlac province of Luzon. He was rescued by Filipino resistance fighters, who appointed him a brevet major in command of a guerrilla unit. After spending five weeks with the guerrilla fighters, Vraciu rejoined American military forces and returned to USS Lexington. He spent the last few months of the war serving at the Naval Air Test Center in Patuxent, Maryland. Vraciu ended the war as the US Navy's fourth highest ranking ace, credited with downing a total of nineteen enemy aircraft and destroying twenty-one on the ground.
 
-Vraciu returned to combat in the Pacific in late 1944, flying Grumman F6F Hellcats in VF-20. On December 14, 1944, after two missions with VF-20, his plane was downed by anti-aircraft fire during a mission over the Philippines. Vraciu parachuted from his plane, landing in the Tarlac province of Luzon. He was rescued by Filipino resistance fighters, who appointed him a brevet major in command of a guerrilla unit.[33] After spending five weeks with the guerrilla fighters, Vraciu rejoined American military forces and returned to USS Lexington. He spent the last few months of the war serving at the Naval Air Test Center in Patuxent, Maryland. Vraciu ended the war as the U.S. Navy's fourth highest ranking ace, credited with downing a total of nineteen enemy aircraft and destroying twenty-one on the ground.
-
 ## Alex's Hellcats
-
-- 
+ 
 - F6F-3 Hellcat (BuNo 40467) White 19, aboard USS Intrepid (F6F-5K BuNo 80141 was restored as 40467, with UK registration G-BTCC, and flew part of Duxford Legends, from 1990 until resale to private owner in 2022)
 - F6F-3 Hellcat (BuNo 40994) White 32, aboard USS Lexington
-
 
 ## References
 
