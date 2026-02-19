@@ -1,6 +1,8 @@
-## Two aircraft of interest
+## Three aircraft of interest
 
 - F-4G-45-MC, 69-7582 c/n: 4053, 23 TFS, 52 TFW (tail: SP - Spangdahlem AB | AF69-52TFW, red-yellow-blue squadron band, 52nd TFW CO's plane) (Col. R Peksens "Weasel I") part of 7440th Composite Wing, March 1991, Gulf War "Operation Desert Storm" - detached to Incirlik AB, Turkey, durich which time it killed one Iraqi radar; airframe first flight March 1971, November 1991 sent to AMARC Davis-Monthan AFB, for conversion to QF-4G FP786, last serial AF222 USAF, shot down March 2006.
 - F-4G-43-MC, 69-7232, 561 FS, 57 FW (tail: WA - Nellis AFB | AF69-232; logos: YGBSM, 57th Wing checkered tail band, squadron black helmet, 8 x HARM kills) (Lt.Col. Mark Turberville & Lt.Col. Jim Uken, EWO) January 1996 Aircraft retirement - detached to Dhahran AB, Saudi Arabia; Desert Storm: Lt. Col. Randy Gelwix (then commander of 81st TFS, of 52nd TFW, Spangdahlem AB) and Lt. Col. Jim Uken led the first wave of Coalition strikes, on the first night of Desert Storm, 17 January 1991; 11 January 1996 it performed the last mission of any US F-4 in hostile territory (Iraq, OSW patrol); within two months, 69-7232 was sent to AMARC Davis-Monthan AFB, Arizona, for conversion to QF-4G drone; 8 x HARM kill signs meaning eight Iraqi SAM sites destroyed: three were destroyed while crewed by Gelwix/Uken part of 81st TFS.
+- F-4G-42-MC, 69-0263 (MSN 3794) initially an F-4E to USAF 496th TFS (50th TFW) in 1972; 3/1981: Upgraded to F-4G; 1991-94: USAF 81st TFS (52nd TFW), Spangdahlem - deployed to Incirlik, Turkey to fly over Iraq during Operation Provide Comfort (Northern No Fly Zone, 1991-1996) - pilot and author of shark mouth: Bruce "Spike" Benyshek; 1995: USAF 561st FS (57th Wing), Nellis AFB, NV. To AMARC as FP1013 1/11/1996. To Tracor, Mojave, CA Dec 12, 1997. To QF-4G drone AF181.
 
+References: <https://www.crouze.com/baugher/usaf_serials/1969.html?zoom_highlightsub=F-4G>
 
