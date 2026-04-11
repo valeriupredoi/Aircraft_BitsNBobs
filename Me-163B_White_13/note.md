@@ -1,0 +1,6 @@
+## Messerschmitt Me-163B "White 13" 2./JG400, Brandis, Germany, 1945
+
+- possible pilot Lt. Gunter Andreas
+- possible Werknummer – 10061 – is clearly seen on the tail. The authors’ state that post-war records indicate that an aircraft with this Werknummer was coded "Yellow 13", and that a photograph is known of a "Yellow 13" from this period but with a different camouflage pattern.
+
+It is important to note that this machine is first recorded as being with I./JG 400 of 11 May 1944. It therefore must have been built in the previous month (April). Pointedly, this was several months before the promulgation of Sammellmitteilung 1 of 1 July 1944 that ordered the replacement of aircraft using colours RLM 70 and 71 with RLM 81 and 82, these being bombers, transports, liaison, and other types.  Fighter are not listed though later in the year one or both of these colours were seen on fighter types.  Thus, it is most probable that when completed the Me-163B-0 V52 WNr.163 10061 "GH+IU" was painted in the then-standard RLM 74/75/76 grey scheme for fighters. But as Ramson and Cammann note, when found at Husum it apparently had a different number and camouflage scheme, indicating that it was probably repainted in the RLM 81/82 colours at the unit level. 
