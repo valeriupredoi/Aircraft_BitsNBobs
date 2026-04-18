@@ -22,6 +22,14 @@ In a battle near Iaşi, Romania, elements of the division, together with element
 
 In early July, the division was ordered to the area near Grodno in Poland, where it would form a part of SS-Obergruppenführer Gille’s IV.SS-Panzerkorps, covering the approaches to Warsaw near Modlin.
 
+## Tigers identified in pictures
+
+- 902 (Mid) 11 March 1944, one day before departure to Balta
+- 912 (Mid) departure to Balta, 12 March 1944
+- 912 (Late) Romania, May 1944
+- 913 (Mid?) 11 March 1944, one day before departure to Balta
+- 921 (Mid) Balta, March 1944
+- 923 (Mid) departure to Balta, 12 March 1944
 
 ## References
 
