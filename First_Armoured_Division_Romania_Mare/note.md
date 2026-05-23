@@ -7,6 +7,11 @@ ecame fiction: the Romanian Communist Party in the period from 1945 to 1989, and
 he first decades, and preserving this behaviour even after Ceausescu started distancing Romania from the Soviet Union in the 196
 0-70s.
 
+Here is a typical Allied description of the Second jassy-Kisinev Offensive, based on the two main sources listed above: German memoirs, and Soviet reporting: an excerpt from a US Defense Technical Information Center (DTIC) translation of a Soviet report, dated from the 1980s:
+
+The former commander of the Army Group Southern Ukraine, Gen H. Friesner, in his memoirs pointed out that the result of the battles on 20 August was catastrophic. On the first day of the offensive by the Soviet troops, the enemy lost nine divisions. The Romanian troops suffered particularly high losses. "In the Dumitrescu Army Group," writes Friesner, "both Romanian divisons of the XXIX Army Corps (the 4th Mountain-Infantry and 21st Infantry) were completely shattered. In the Veler Army Group up to five Romanian divisions were completely routed." The high losses suffered by the Romanian troops told on their morale. Entire units began to surrender. Antonescu ordered that "everyone fleeing from the enemy" be shot and created officer punitive detachments to combat them. On 21 August, the German Command issued orders to Gen Kirchner to prohibit the Romanian units making up his group from carrying out the orders of the 4th Romanian Army to retreat to new lines.
+
+In the morning of 22 August, the German Command of the Army Group Southern Ukraine received Hitler's approval to pull the troops back from the Kishinev Salient to the line of the Mare Range, the Prut River. "But," as Friesner pointed out, "it was already too late!" With the arrival on 23 August of the XVIII Tank Corps in the Husi area, the VII Mechanized Corps at the crossings of the Prut River in the Leuseni area and the IV Guards Mechanized Corps in the Leovo area, the operational encirclement of the Kishinev grouping was completed as all escape routes beyond the Prut were cut. The Headquarters representative MSU S. K. Timoshenko reported at 2300 hours on 23 August to Headquarters: "As a result of the 4 days of the operation, the troops of the Second and Third Ukrainian Fronts today, on 23 August, have completed the operational encirclement of the Kishinev grouping...." The attempts of the German troops encircled in the Kishinev Salient to break out of the trap came to nothing. The Soviet troops fighting on the external perimeter liberated the important strongpoint of the town of Roman and during the night of 24 August, the town of Birlad and were approaching the town of Bacau. The Nazi Gen K. Tippelskirch, in commenting on the rapidity of the Soviet offensive in the operation, has written: "The enemy troops crashed upon us like enormous sea waves and inundated the German forces from all sides. Any centralized leadership over combat was halted and the rear areas were cut off.... The German troops split up into individual combat groups were forced to surrender.
 
 ### David M. Glantz and correcting history written by the winning Allies
 
@@ -88,9 +93,8 @@ On 24 August the tank column continued its trip towards Casin through Bozieni an
 
 Another unit of the 1st Armored Division, the Motorized Recon Company, retreated through the same road to Girov, where it arrived in the evening of 23 August. The armored cars were refueled and the following day they headed towards Roznov. The intention of cpt. Bogatu, the CO, was to retreat through Buhusi to Bacau, but they were greeted with fire by several Soviet tanks and headed back to Roznov and from there, under the command of slt. Vasile Ienceanu to Frumoasa, through Targu Trotus. In the evening of 24 August they arrived at Casin.
 
-And here ends our short story. Hopefully others will be able to add more details I left out or didn't know about. The remaining tanks of the 1st Tank Regiment formed the "Lt. Col. Gheorghe Matei" Armored Detachment that was subordinated to the 2nd Ukrainian Front and fought in southeastern Transylvania in September 1944.
-
 ### References:
+
 - <https://forum.axishistory.com/viewtopic.php?t=73749>
 - David M. Glantz "Red Storm over the Balkans"
-
+- US Defense Technical Information Center (DTIC) <apps.dtic.mil>
