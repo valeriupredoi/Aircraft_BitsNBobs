@@ -18,6 +18,7 @@
 - Korat crew: Captain Stuart "Stu" Stegenga and Captain Hans Zimmermann
 - Type: EF-4C-24-MC (Block 24, built by McDonnell at St. Louis)
 - [F-4C Wild Weasel History](https://wildweasels.org/wp-content/uploads/2024/12/F-4C-Wild-Weasel-History.pdf)
+- [F-4C Wild Weasel Overview](https://wildweasels.org/f-4c-3/)
 
 #### History during Linebacker
 
