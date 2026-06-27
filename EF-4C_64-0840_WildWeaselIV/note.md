@@ -1,6 +1,20 @@
-### EF-4C Phantom Wild Weasel IV 64-0840
+### EF-4C Phantom Wild Weasel IV 64-0840 "Super Cocks Swiss Samlar"
 
- An U.S. Air Force McDonnell Douglas EF-4C Phantom II aircraft (s/n 64-0840) of the 67th Tactical Fighter Squadron, 18th Tactical Fighter Wing, after its arrival at Korat Royal Thai Air Force Base in September 1972. The EF-4C "Wild Weasel IV" was a parallel development with the F-105G "Wild Weasel III" program. 36 aircraft F-4Cs were modified and fitted with AN/APR-25 Radar Homing and Warning System (RHAWS), AN/APR-26 SAM launch warning system, and ER-142 electronic countermeasures receiver. After the F-4G became available in the late 1970s these aircraft were flown as regular F-4Cs.
+A U.S. Air Force McDonnell Douglas (E)F-4C-24-MC (Block 24, built by McDonnell at St. Louis) Phantom II aircraft (s/n 64-0840), crew: Captain Stuart "Stu" Stegenga and Captain Hans Zimmermann of the 67th Tactical Fighter Squadron (TFS), 388th Tactical Fighter Wing (TFW), after its arrival at Korat Royal Thai Air Force Base (RTAFB) in September 1972. The F-4C "Wild Weasel IV" was a parallel development with the F-105G "Wild Weasel III" program. 36 aircraft F-4Cs were modified and fitted with AN/APR-25 Radar Homing and Warning System (RHAWS), AN/APR-26 SAM launch warning system, and ER-142 electronic countermeasures receiver. After the F-4G became available in 1978, these aircraft were flown as regular F-4Cs. On 23 September 1972, OPLAN C-106 Operation Commando Flip meant that one F-4C Wild Weasel unit, Detachement I of the 67th TFS at Kadena Air Base, Okinawa, Japan, sent six F-4C Wild Weasels to 388th TFW at Korat RTAFB, Thailand. Though initially unwelcomed by the 388th TFW command (rightly invoking disurption is supply chain and logistics), the F-4Cs were used extensively over North Vietnam during Operation Linebacker II, the F-4C Wild Weasel aircrews effectively supporting B-52 strikes around Hanoi, flying 460 sorties in Southeast Asia without loss. These aircraft were to compensate for the loss of six F-105Gs "Wild Weasel III" from the 561st TFS that had returned to McConnell AFB, Wichita, Kansas, on 25 August 1972. The nine 67th TFS F-4C Wild Weasel crews who deployed were:
+
+- Pilot Lt Col Don Parkhurst (67 TFS Commander) with Bear Major Dick Taylor
+- Major Bob Belles (Ops Officer) with Major Pat Kelly
+- Captain John Bremer with Captain Hal Bergman
+- Captain Tom Floyd with Captain Al Palmer (63-7474, "Brain Damage")
+- Captain Rich Graham with Captain John O. S. Williams
+- Captain Bill McLeod with Major Don Lavigne (63-7423, "Jail Bait")
+- Captain Dick Myer with Captain Don Triplett
+- Captain Stu Stegenga with Captain Hans Zimmerman (64-0840, "Super Cocks Swiss Samlar")
+- Captain Robert "Bob" Lee Tidwell with Captain Dennis "Denny" Haney
+
+On December 20 1972, Captain Tom Floyd with Captain Al Palmer (F-4C 63-7474, "Brain Damage") were involved in a MiG interception over Hanoi, firing both their AIM-7 Sparrows, but missing the two MiGs, that eventually tuned back for home. They eventually killed two SAM sites that night, with their two AGM-45 Shrikes. Captain Robert "Bob" Lee Tidwell and Captain Dennis "Denny" Haney, piloting the same "Brain Damage", eventually downed a MiG on December 26, each earning a Silver Star, and marking the only successful MiG encounter of Linebacker II.
+
+Operation Linebacker II, the most concentrated air campaign against North Vietnam, began on December 18, 1972, after the communists again stalled at the peace table in Paris. Over half the targets were within 25 miles of Hanoi, protected by some of the densest air defenses in the world. Even so, the Wild Weasels, along with other anti-SAM measures, kept SA-2 losses relatively low, without any losses to themselves. In 1972 North Vietnamese fired over 4,000 SA-2s - nearly half the total they fired during the entire war - shooting down 49 US aircraft (statistically, it took over 80 SA-2s to down one single aircraft).
 
 ### Airframe timeline
 
