@@ -22,7 +22,8 @@ Mi-8 helicopters, received in 1968.
 - end of 1957 the Helicoper Squadron is disbanded, with the then current trainees being laid off or transferred to other units;
 - the Helicopter Squadron Mi-4 is reinstated in 1962, CO Ion Repede; the Squadron operates as the sole Mi-4 helicopter squadron in
   Romania from 1962 to 1977, when it is again disbanded;
-- Romania operated eight military Mi-4, four Police/Securitate Mi-4s, and another four civilian/government Mi-4 helicopters;
+- Romania operated eight military Mi-4 in a squadron part of Regimentul 94 Elicoptere at Alexeni (White 1, 2, 5, 6, 127),
+  four Police/Securitate Mi-4s, and another four civilian/government Mi-4 helicopters;
 - three civilian versions of Mi-4 registered in 1961 and 1972: YR-EMA, YR-EMB, YR-EMC
 - YR-EMA performed transport and surveillance missions, pilot Bujor Constantin
 - YR-EMA suffered a minor incident (clipped high voltage lines) on 4 June 1962, and a fatal crash and
