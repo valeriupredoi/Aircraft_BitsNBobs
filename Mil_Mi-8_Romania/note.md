@@ -9,6 +9,7 @@ Romania was one of the earlier Warsaw Pact operators of the **Mil Mi-8 "Hip"** f
 ### Fleet and variants
 
 <https://hotnews.ro/elicoptere-sovietice-poloneze-si-frantuzesti-n-romnia-1959-1975-96910>
+<https://arpia-filialacluj.ro/Documents/ebooks/Elicoptere_in_Romania.pdf>
 
 Romania acquired approximately:
 
