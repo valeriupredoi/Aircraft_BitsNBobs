@@ -32,6 +32,8 @@ After executing a sharp right turn, Gypsy 207 gained a position in the rear quad
 
 ![GYPSY 202](https://images.openai.com/static-rsc-4/d1IpV3Vb6QD-CUahb2Cbxmd6VfnWjPPxTNvu0HyA6jzwXqyfA734MHGzwudcTem4wPgR0Q-LDnvajDB7KC0SBIaZs3fSjuLlnakfHr2W3IHNA4Do4QSpVoHdCiRUslnquTAJ2nbv8gcucJrx05Nbd66z9wEP8lLaIiWCSAA8JC6YYfoySPfuIZPEB3ZC-Dey?purpose=fullsize)
 
+![GYPSY 207](https://github.com/valeriupredoi/Aircraft_BitsNBobs/blob/d6dd8d8519cf1be5502d56a5995836798af88752/F-14A_Gypsy-202-207_159437_159610/F-14A_159610_USS-John-F-Kennedy_VF-32_4.jpg)
+
 ![At Smisthosnian](https://images.openai.com/static-rsc-4/ptMyBXG7oitmRYhy6QlDeTLSC0XKiM444ZqHA-Vp5_FqTprzmXJUDWMEY5Ssqu3bKdZLlgJpNbqhsyx_djrXwi7SsTlALx762dtKdAgixRYAiR-glcnzHvQAZHRfyD4hhuh2IBO-ztdl1T40F08rWr313Wj7Wt686Z5AFdEV6ig1eTx70gEkXwYH1FRvXllW?purpose=fullsize)
 
 ![GYPSIES 201, 202 and 207](https://images.openai.com/static-rsc-4/gmUBNpEe_Cr1EVjz2iO65pN0YhzGCgtAai9bIImdyKmmKlzezinjyF0cXUcTE8qsTQ1Wl7NwN3xc-tBnu9TACscpa3vYl_btUutOX8zM4rsufb7rPUVhpQx1r9xXkXYLrxYstnvaBR1QTF_YtwDwmmaReRytwMbQihRffRG-jAIF1vDlAtYKmY4Da04dny1J?purpose=fullsize)
