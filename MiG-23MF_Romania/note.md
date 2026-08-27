@@ -24,7 +24,7 @@ For 0390215222:
 ### Operational history MiG-23MF in Romania
 
 In 1978 Romania sent 48 personnel including pilots, ground crew etc from 57th Aviation Regiment to USSR to attend preparatory coursework on the new MiiG-23. On January 23rd 1979, the first aircraft arrived via air from the USSR, two UBs nos 135 and 136. The first 12 single-seaters MF arrived in country on 19 May 1979.
-They were: 222, 223, 225, 240-247, and 926-927. These formed Escadrila 1. The remainder of both MFs and UBs arrived in 1981-1983.
+They were: 222, 223, 225, 240-247, and 926-927. These formed Escadrila 1. The remainder of both MFs and UBs arrived in 1981-1983, eventually forming two fighter squadrons - Escadrilele 1 and 2.
 
 Overall safety for Romanian operated MiG-23s:
 
