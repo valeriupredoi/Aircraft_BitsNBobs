@@ -35,6 +35,6 @@ Accidents: MiG-23UB "160" 10 March 1994, crew ejected safely; MiG-23MF "223" 9 A
 
 A few interesting facts:
 - Romania was the only Warsaw Pact country never to upgrade its MiG-23MFs to the ML or MLA standard.
-- The aircraft retained their original late-1970s Soviet camouflage throughout service, unlike many operators that repainted theirs.
-- All Romanian MiG-23s served with 57th Fighter Aviation Regiment at Mihail Kogălniceanu.
+- The aircraft retained their original late-1970s Soviet camouflage throughout service, unlike many operators that repainted theirs. Though, several sources mention repainting in camouglage colours around 1990.
+- The majority of the Romanian MiG-23s served with 57th Fighter Aviation Regiment at Mihail Kogălniceanu. Four of them (bort numbers 258-261) served with the 93rd Fighter Aviation Regiment at Giarmata, Timisoara.
 - The fleet flew the R-23R/T and later R-60MK air-to-air missiles but was never modernised with newer Soviet weapons or avionics.
