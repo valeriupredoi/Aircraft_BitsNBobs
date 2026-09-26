@@ -12,7 +12,7 @@ Nicely painted A-4M 159486 on the VF-126 line at NAS Miramar, December 1992. Air
 
 ### Douglas A-4M Skyhawk II — BuNo 159486
 
-**c/n 145?**
+**c/n 14427**
 **Argentine FAA:** **C-934**
 
 159486 was one of the **24 A-4Ms in the BuNo 159470–159493 production block**, so it's an early-production A-4M. ([Skyhawk Association][1])
