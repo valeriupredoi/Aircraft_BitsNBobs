@@ -31,3 +31,13 @@ During Operation Allied Force, VAQ-141 aircraft (including 161350) flew from the
   - ECMO 1 - LCdr Rick "Flash" Morgan
   - ECMO 2 - Lt Steve "Psycho" Schwing
   - ECMO 3 - Lt John "Gordo" Gordon
+
+## EA-6B 160786 ICAP-1
+
+- Block: EA-6B-75-GR
+- c/n: P-73
+- BuNo: 160786
+- Manufactured: 1979
+- Original capability: ICAP (later ICAP-I)
+
+Operations: 39 missions in desert Storm with VMAQ-2 "Playboys", MCAS Cherry Point, NC - Sheikh Isa AB, Bahrain, tail code "CY-12"; later Operation Northern Watch with VMAQ-1 "Banshees" tail code "CB-01"; currently displayed at Naval Air Facility Atsugi, Japan, in Kanagawa.
