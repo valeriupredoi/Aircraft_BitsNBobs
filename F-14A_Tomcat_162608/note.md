@@ -1,6 +1,6 @@
 ## F-14A Tomcat BuNo 162608 "Tomcat Fastfac" Operation Allied Force 1999
 
-**Decals: Fightertown Decals 48083 Tomcats at War 3 A/B/D:**
+**Decals: Fightertown Decals 48083 Tomcats at War Part 1 A/B/D:**
 - Fastfac 101, VF-41 "Black Aces", aboard USS Theodore Roosevelt (CVN-71), with Carrier Air Wing Eight (AJ)
 - Operation Noble Anvil (US designation of Allied Force), May-June 1999
 - crew: Cdr J J Bauser callsign DOG, Cdr B G Gawne callsign DONGER
