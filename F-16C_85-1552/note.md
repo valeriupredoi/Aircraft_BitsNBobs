@@ -1,4 +1,7 @@
-## Modeller's notes
+## Modeller's notes F-16C 86-1552 Block 30B
+
+- Kit: Kinetic 48146 Block 30 with HARMs
+- decals: Print Scale 48333 F-16 Fighting Falcons of Desert Storm Part 3
 
 - 52nd TFW Spangdahlem:
   - 23rd TFS (blue tail band)
