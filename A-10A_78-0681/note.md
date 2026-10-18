@@ -12,11 +12,12 @@ On 21 January 1991, Johnson and his wingman, Captain Randy Goff in Sandy 58, wer
 
 **F-14A+ shot down:**
 
-- Lieutenant Devon Jones, the pilot.
-- Lieutenant Lawrence R. Slade, the radar intercept officer (RIO).
-- F-14A+ BuNo 161430, assigned to VF-103 “Sluggers”, USS Saratoga, callsign AA212.
-- TARPS, shot down by SA-2 near Al Asad, pilot rescued, RIO POW
-- replaced by BuNo. 161424
+- Lieutenant Devon BOOTS Jones, the pilot, older rescue radio (PRC-90), working.
+- Lieutenant Lawrence R. RAT Slade, the radar intercept officer (RIO) - newer rescue radio (PRC-112), not working.
+- F-14A+ BuNo 161430, assigned to VF-103 “Sluggers”, USS Saratoga, AA212, callsign Slate 46.
+- mission: HVU-CAP (high value unit combat air patrol) they were escoring an EA-6B Prowler on a mission on Al-Asad AB.
+- TARPS, shot down by SA-2 near Al Asad, pilot rescued, RIO POW.
+- replaced by BuNo. 161424.
 
 Johnson received a tentative set of coordinates, together with the call signs for a KC-10 tanker and the MH-53 Pave Low rescue helicopter. He headed west, refuelled from the tanker and contacted an E-3 AWACS. The AWACS initially diverted him to investigate a suspected Scud missile site. At the time, Scud attacks were a major concern because an Israeli response against Iraq might fracture the coalition fighting to liberate Kuwait. Johnson investigated and confirmed that the suspected site did not contain Scuds. He refuelled again, contacted AWACS and was sent back to the original rescue coordinates.
 
