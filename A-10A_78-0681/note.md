@@ -15,7 +15,7 @@ On 21 January 1991, Johnson and his wingman, Captain Randy Goff in Sandy 58, wer
 - Lieutenant Devon BOOTS Jones, the pilot, older rescue radio (PRC-90), working.
 - Lieutenant Lawrence R. RAT Slade, the radar intercept officer (RIO) - newer rescue radio (PRC-112), not working.
 - F-14A+ BuNo 161430, assigned to VF-103 “Sluggers”, USS Saratoga, AA212, callsign Slate 46.
-- mission: HVU-CAP (high value unit combat air patrol) they were escoring an EA-6B Prowler on a mission on Al-Asad AB.
+- mission: HVU-CAP (high value unit combat air patrol) they were escoring an EA-6B Prowler on a mission on Al-Asad AB; the Prowler was from VAQ-132 "Scorpions" (also aboard Saratoga).
 - TARPS, shot down by SA-2 near Al Asad, pilot rescued, RIO POW.
 - replaced by BuNo. 161424.
 
