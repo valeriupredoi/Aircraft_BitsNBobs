@@ -26,11 +26,16 @@ Johnson had another problem: he was now beyond bingo fuel, meaning he no longer 
 
 But the situation was deteriorating. While the Americans were trying to pinpoint Jones, an Iraqi military truck approached across the desert, raising a cloud of dust. Johnson still could not see Jones. He therefore asked Slate 46 to describe the truck's position relative to himself so that the A-10s could engage it. Jones replied: “The truck is headed straight for me.” Johnson and Goff rolled in for an attack with their A-10s' 30 mm GAU-8/A cannons. They flew low over the ground, but the first pass missed the truck. They turned sharply and attacked again. On his second pass, Johnson destroyed the vehicle. He later described the scene to William L. Smallwood for the book Warthog: "the truck was burning, with orange flames and black smoke pouring out of it." The rescue helicopter then came in and landed. About 100 yards from the burning truck, Jones jumped up out of his hiding place and ran towards the helicopter. The A-10s had not merely found the survivor; they had eliminated the immediate threat to his escape.
 
-The rescue was not quite over when Jones reached the helicopter. Johnson refuelled for the fourth time that day and escorted the Pave Low until he was released to return to King Fahd. His total combat flying time for the day was eight hours and 45 minutes. The article describes the operation as an A-10 mission of unprecedented length and depth into Iraqi territory.
-
-The outcomes for the two F-14 crewmen were very different:
+The rescue was not quite over when Jones reached the helicopter. Johnson refuelled for the fourth time that day and escorted the Pave Low until he was released to return to King Fahd. His total combat flying time for the day was eight hours and 45 minutes. The article describes the operation as an A-10 mission of unprecedented length and depth into Iraqi territory. The outcomes for the two F-14 crewmen were very different:
 
 - Lt. Devon Jones: rescued successfully and returned quickly to his ship, USS Saratoga. He had been flying with VF-103, the “Jolly Rogers”.
 - Lt. Lawrence R. Slade: captured by Iraqi forces approximately four hours after ejecting. He subsequently appeared on Iraqi television with two other coalition prisoners and was released on 3 March 1991 as part of a group of six POWs.
 
-Captain Johnson received the Air Force Cross for his role in coordinating Jones's rescue. Trask and his MH-53 crew subsequently received the Mackay Trophy for their part in the operation.&#x20;
+Captain Johnson received the Air Force Cross for his role in coordinating Jones's rescue. Trask and his MH-53 crew subsequently received the Mackay Trophy for their part in the operation. 78-0681 ia now at the US Air Force Museum, Dayton, Ohio.
+
+## What I still don't know:
+
+- at the time of the mission, was 78-0681 "Playtime" only, or "Playtime"+"Little Lady Diane"
+- was the assigned pilot Capt. Jeff Scott
+
+Possible clues in the book Warthog: Flying the A-10 in the Gulf War, William Smallwood.
