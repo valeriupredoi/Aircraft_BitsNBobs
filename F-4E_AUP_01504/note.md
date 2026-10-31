@@ -1,0 +1,7 @@
+I don't usually want to build models of aircraft that have crashed, and killed their crews - probably because I don't want to associate my builds with sad events, just as I'd rather build military craft in SAR/CSAR or peace keeping configurations. But this time around I'll make an exception - as a Phantom lover, the crash of the Greek Phantom, on 5 September this year, hit hard, and thanks to Meng being generous with their decal sheet, I can build the ill-fated 01504.
+
+The crash of F-4E AUP Phantom II 01504 (c/n 4455, USAF serial 72-1504) during an aerial display/ferry flight at Tanagra on September 5. The aircraft belonged to 338 Squadron "Ares" of the 117th Combat Wing. The unit, based at Andravida, has operated the Phantom since 1974. The crash occurred during Athens Flying Week, shortly after the Phantom began its flight. Major Ioannis Blesias, 40, and Captain Dimitrios Petrou, 37, were killed. No spectators or civilians were injured, but the remaining flying program was cancelled and a three-day mourning period was declared across the Hellenic Armed Forces. The cause of the crash remains under investigation. Tailwinds and clear skies, Captain Petrou and Major Blesias!
+
+The aircraft was one of the original six Greek F-4Es delivered in April 1974 under the Peace Icarus programme. Those six aircraft were 01500–01505, and they arrived at Andravida on 5 April 1974, initially wearing American markings before receiving their Greek national insignia.
+
+A terrible end to a Phantom that had served Greece for over half a century. Phantoms Phorever.
