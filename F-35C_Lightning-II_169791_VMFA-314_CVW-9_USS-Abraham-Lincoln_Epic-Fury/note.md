@@ -1,0 +1,9 @@
+- Decals: Furball Aerodesign 48-105
+- Bureau number: 169791
+- Type: F-35C Lightning II
+- Squadron: VMFA-314, Black Knights, NG-300
+- Carrier: USS Abraham Lincoln (CVN-72), CVW-9 "Team Shogun"
+- Operation: Epic Fury
+- Date: 28 February 2026
+- Useful reference: <https://www.key.aero/article/us-navy-carriers-contribution-operation-epic-fury-examined>
+- photo reference: <https://www.centcom.mil/MEDIA/IMAGERY/>
