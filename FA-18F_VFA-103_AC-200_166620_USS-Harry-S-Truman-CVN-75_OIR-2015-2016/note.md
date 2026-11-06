@@ -5,4 +5,5 @@
 - deployed: 16 November 2015 – Norfolk, Virginia
 - Operation Inherent Resolve starts on the night of 29 December 2015
 - end of tour: 13 July 2016 – Norfolk, Virginia
-- crew: Capt. Fredrick R. "Lucky" Luchtman (commander CVW-7 in December 2015, start of OIR)/Ens. Jack "Bones" Ernie
+- crew: CAG Capt. Fredrick R. "Lucky" Luchtman (commander CVW-7 in December 2015, start of OIR)/Ens. Jack "Bones" Ernie
+- crew later in 2016: later on in 2016, crew changed to DCAG John Bixby, with EWO same "Bones" Ernie; lots of mission markings on starboard nose
