@@ -1,0 +1,9 @@
+- Decals: Furball Aerodesign 48-105
+- Bureau number: 169137
+- Type: E/A-18G Growler
+- Squadron: VAQ-133, Wizards, NG-500
+- Carrier: USS Abraham Lincoln (CVN-72), CVW-9 "Team Shogun"
+- Operation: Epic Fury
+- Date: 28 February 2026
+- Useful reference: <https://www.key.aero/article/us-navy-carriers-contribution-operation-epic-fury-examined>
+- photo reference: <https://www.centcom.mil/MEDIA/IMAGERY/>
