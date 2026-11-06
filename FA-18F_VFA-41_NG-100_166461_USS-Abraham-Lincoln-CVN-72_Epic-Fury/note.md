@@ -8,3 +8,4 @@
 - Combat configuration: ‘Heater Wagon’ DCA mission configuration (AIM-9X focus)
   (A “Heater Wagon” is US Navy slang for a heavily armed air-to-air configuration, designed primarily for Defensive Counter Air (DCA) missions. The term has become particularly prominent during the Red Sea operations against Houthi drones and missiles in 2024.)
 - Useful reference: <https://www.key.aero/article/us-navy-carriers-contribution-operation-epic-fury-examined>
+- photo reference: <https://www.centcom.mil/MEDIA/IMAGERY/>
