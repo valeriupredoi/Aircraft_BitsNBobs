@@ -1,0 +1,11 @@
+- type: A-4KU but will use Magic Factory A-4M kit
+- decals: FabScale FD48054
+- aircraft: 801 BuNo 160180
+- history:
+  - built as 160180 A-4KU for Kuwait; 20 July 1976: First flight.
+  - 1977–78: Delivered to Kuwait as 801.
+  - August 1990: Operated with the Free Kuwait Air Force from King Abdul Aziz Air Base, Dhahran, Saudi Arabia.
+  - 22 November 1990: Photographed parked near the crowd attending President George H.W. Bush's Thanksgiving visit to US forces in Saudi Arabia.
+  - 13 February 1991: Identifiable as 801 (BuNo 160180) in an official photograph of Kuwaiti Skyhawks being prepared for missions during Desert Storm.
+  - 1998: sold to Brazil as N-1001
+  - 26 July 2016, it collided in mid-air with N-1011 during a low-level simulated anti-ship attack exercise; survived with pilot, N-1011 crashed killing pilot
