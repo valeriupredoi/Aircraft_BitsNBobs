@@ -1,4 +1,4 @@
-- type: A-4KU but will use Magic Factory A-4M kit
+- type: A-4KU but will use Magic Factory A-4M kit (A-4M and A-4KU are externally virtually identical: the A-4KU had a Kuwait-specific communications fit and omitted some US-specific systems and weapons provisions, including nuclear delivery, Shrike, Walleye and ECM components)
 - decals: FabScale FD48054
 - aircraft: 801 BuNo 160180
 - history:
