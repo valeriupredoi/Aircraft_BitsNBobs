@@ -1,0 +1,15 @@
+- Aircraft: F-16A Block 15AC OCU, subsequently upgraded to F-16AM MLU.
+- Serial: 86-0063.
+- Dutch designation: J-063.
+- Mid-Life Update (MLU), converted from around 1995 onwards (Block 20 MLU afterwards)
+- Victory: 24 March 1999, during Operation Allied Force;
+- Shootdown:
+  - 24 Mar 1999, 322 sqn KLu "Polly Parrot", F-16A/MLU J-063, Maj Peter "Wobble" Tankink, with an AIM-120A AMRAAM
+  - MiG-29A/9-12 18111, 127.lpe/JRViPVO Major Nebojša Nikolić, near Titel/Knićanin, Yugoslavia, safe ejection
+  - or: MiG-29A/9-12 18106, Predrag "Grof" Milutinović?
+- Weapon: AIM-120 AMRAAM.
+- Last operational flight: 18 November 2022.
+- Museum transfer: 27 January 2026.
+- Public display: From 28 January 2026 at Nationaal Militair Museum (NMM) in Soesterberg, Netherlands.
+- Reference: <https://www.nmm.nl/en/f-16-mig-killer/>
+- Reference: <http://aces.safarikovi.org/victories/netherland-kos.html>
