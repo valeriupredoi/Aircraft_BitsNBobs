@@ -1,6 +1,6 @@
 ## SLAB's F-16C
 
-SLAB, as Tigers Team leader, flew 4061 in 2024, at the Nowy Targ Airshow.
+The Viper he flew when he crashed was 4056 (JC-17). SLAB, as Tigers Team leader, flew 4061 in 2024, at the Nowy Targ Airshow in July 2024.
 
 **F-16C at Nowy Targ Airshow**
 
